@@ -1,13 +1,12 @@
+# TouchDesigner
+*.toe.bak
+Backup/
+*.toeNNN
+*.tox.bak
+
+# Cache
+.local/
+
 # OS
 .DS_Store
 Thumbs.db
-desktop.ini
-
-# Editor
-.vscode/
-.idea/
-*.swp
-*~
-
-# Logs
-*.log
